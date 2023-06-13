@@ -23,6 +23,7 @@ Customer Support: The app can include features for customer support, such as cha
 Overall, an Android shopping app can provide a user-friendly interface, personalized recommendations, secure transactions, and convenient features to enhance the shopping process, making it more efficient and enjoyable for users.
 
 OUTPUT 
+<img src=""C:\Users\varun\Downloads\Telegram Desktop\photo_2023-06-13_06-24-29.jpg">
 
 </p>
 
