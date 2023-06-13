@@ -20,6 +20,8 @@ Wishlist and Saved Items: Users can create wishlists or save items for future re
 
 Customer Support: The app can include features for customer support, such as chatbots or messaging systems, enabling users to seek assistance, resolve issues, or make inquiries related to their shopping experience.
 
+Overall, an Android shopping app can provide a user-friendly interface, personalized recommendations, secure transactions, and convenient features to enhance the shopping process, making it more efficient and enjoyable for users.
+
 </p>
 
 <h3 align="left">Languages and Tools used :</h3>
