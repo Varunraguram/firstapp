@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm varun S</h1>
 <h3 align="center">Simplify Your Shopping Experience with Android App Development</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Explanation</h3>
+<p align="left">Android app development refers to the process of creating applications specifically designed for Android mobile devices. In the context of shopping, an Android app can be developed to enhance and streamline the overall shopping experience for users.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
